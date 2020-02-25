@@ -1,0 +1,21 @@
+[remap]
+
+importer="wav"
+type="AudioStreamSample"
+path="res://.import/Fan.wav-3968eada943e25be134414dedb70d224.sample"
+
+[deps]
+
+source_file="res://Assets/Fan.wav"
+dest_files=[ "res://.import/Fan.wav-3968eada943e25be134414dedb70d224.sample" ]
+
+[params]
+
+force/8_bit=false
+force/mono=false
+force/max_rate=false
+force/max_rate_hz=44100
+edit/trim=false
+edit/normalize=false
+edit/loop=false
+compress/mode=0
